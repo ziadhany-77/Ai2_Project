@@ -1,0 +1,27 @@
+Epoch [1/50], Training Loss: 0.5752, Training Accuracy: 79.75%
+Validation Loss: 0.3296, Validation Accuracy: 88.33%
+Best model weights saved at epoch 1
+Epoch [2/50], Training Loss: 0.1024, Training Accuracy: 96.79%
+Validation Loss: 0.0625, Validation Accuracy: 97.22%
+Best model weights saved at epoch 2
+Epoch [3/50], Training Loss: 0.0813, Training Accuracy: 97.07%
+Validation Loss: 0.0446, Validation Accuracy: 98.89%
+Best model weights saved at epoch 3
+Epoch [4/50], Training Loss: 0.0479, Training Accuracy: 98.88%
+Validation Loss: 0.0550, Validation Accuracy: 97.22%
+Early stop counter: 1
+Epoch [5/50], Training Loss: 0.0490, Training Accuracy: 98.74%
+Validation Loss: 0.0446, Validation Accuracy: 98.33%
+Early stop counter: 2
+Epoch [6/50], Training Loss: 0.0548, Training Accuracy: 98.32%
+Validation Loss: 0.0498, Validation Accuracy: 96.67%
+Early stop counter: 3
+Epoch [7/50], Training Loss: 0.0207, Training Accuracy: 99.72%
+Validation Loss: 0.0753, Validation Accuracy: 97.78%
+Early stop counter: 4
+Epoch [8/50], Training Loss: 0.0163, Training Accuracy: 99.58%
+Validation Loss: 0.1105, Validation Accuracy: 95.00%
+Early stop counter: 5
+Early stopping triggered!
+Entire model saved.
+Training completed.
